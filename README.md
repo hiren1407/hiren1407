@@ -47,7 +47,7 @@ A social app for developers with real-time **Socket.io** chat and **Razorpay** p
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hiren-khanchandani/)
 - 📧 hirenkhanchandani1407@gmail.com
-- 🌐 [Portfolio](https://hiren1407.github.io/portfolio/))
+- 🌐 [Portfolio](https://hiren1407.github.io/portfolio/)
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
