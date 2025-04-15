@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hiren Khanchandani!
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hiren1407)
+
 
 I'm a passionate **Software Engineer** currently pursuing my Master's in Computer Software Engineering at the **University of Maryland, College Park** (Graduating May 2025). I love crafting modern, scalable web applications and exploring the power of **AI and full-stack development**.
 
