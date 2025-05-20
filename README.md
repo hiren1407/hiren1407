@@ -18,7 +18,7 @@ I'm a passionate **Software Engineer** currently pursuing my Master's in Compute
 - Implemented **CI/CD pipelines** using Azure DevOps.
 - Secured and tested 300+ APIs using **OAuth, Postman, SOAP UI**.
 
-### 🍴 Full Stack Developer Intern @ GreyGeeks Technology (2020)
+### 🍴 Full Stack Developer @ GreyGeeks Technology (2020-2021)
 - Developed a food app with **Angular, TypeScript, Node.js**, and **MySQL**, boosting engagement by 40%.
 
 ---
